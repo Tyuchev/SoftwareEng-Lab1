@@ -1,0 +1,2 @@
+sset
+MyTestProject/Saved/Logs/MyTestProject.log

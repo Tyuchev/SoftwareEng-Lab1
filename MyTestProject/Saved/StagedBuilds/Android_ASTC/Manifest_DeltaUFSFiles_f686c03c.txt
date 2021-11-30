@@ -1,0 +1,16 @@
+Engine/GlobalShaderCache-GLSL_ES3_1_ANDROID.bin
+MyTestProject/AssetRegistry.bin
+MyTestProject/Content/ShaderArchive-Global-GLSL_ES3_1_ANDROID.ushaderbytecode
+MyTestProject/Content/ShaderArchive-MyTestProject-GLSL_ES3_1_ANDROID.ushaderbytecode
+MyTestProject/Content/HandheldAR/Blueprints/GameFramework/BP_ARPawn.uasset
+MyTestProject/Content/HandheldAR/Blueprints/GameFramework/BP_ARPawn.uexp
+MyTestProject/Content/HandheldAR/Blueprints/Placeable/BP_InteractionHUD.uasset
+MyTestProject/Content/HandheldAR/Blueprints/Placeable/BP_InteractionHUD.uexp
+MyTestProject/Content/HandheldAR/Blueprints/UI/BP_MainMenu.uasset
+MyTestProject/Content/HandheldAR/Blueprints/UI/BP_MainMenu.uexp
+MyTestProject/Content/HandheldAR/Maps/HandheldARBlankMap.uexp
+MyTestProject/Content/HandheldAR/Maps/HandheldARBlankMap.umap
+MyTestProject/Content/HandheldAR/Maps/HandheldARBlankMap_BuiltData.uasset
+MyTestProject/Content/HandheldAR/Maps/HandheldARBlankMap_BuiltData.uexp
+Manifest_NonUFSFiles_Android.txt
+Manifest_UFSFiles_Android.txt
